@@ -9,11 +9,11 @@ public class Student  extends Citizen{
 	private int rollno;
 	private String collegeName;
 	
-	public Student(int rollno, String collegeName) {
-		super();
-		this.rollno = rollno;
-		this.collegeName = collegeName;
-	}
+//	public Student(int rollno, String collegeName) {
+//		super();
+//		this.rollno = rollno;
+//		this.collegeName = collegeName;
+//	}
 
 	public Student(String name, long aadhar, String address, long phno) {
 		super(name, aadhar, address, phno);

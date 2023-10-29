@@ -3,8 +3,6 @@ package com.tnsif.inherit;
 public class Country {
 	private String countryname;
 	
-	
-
 	public Country() {
 		super();
 	}

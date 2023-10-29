@@ -12,9 +12,9 @@ public class Customer {
 	//parametrized constructor
 	public Customer(String customerName,int customerId,String customerCity)
 	{
-		this.customeName=customerName;
-		this.customeId=customerId;
-		this.customeCity=customerCity;
+		this.customerName=customerName;
+		this.customerId=customerId;
+		this.customerCity=customerCity;
 	}
 	//Add getters and setters
 	public String getCustomerName() {

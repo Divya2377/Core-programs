@@ -3,10 +3,6 @@ package com.tnsif.inherit;
 public class State extends Country{
 	private String statename;
 	
-	
-
-	
-
 	public State() {
 		super();
 	}

@@ -2,8 +2,6 @@ package com.tnsif.inherit;
 
 public class City extends State {
 	private String cityname;
-	
-
 	public City() {
 		super();
 		// TODO Auto-generated constructor stub
@@ -32,6 +30,4 @@ public class City extends State {
 		//return "City [cityname=" + cityname + "]";
 	//}
 	
-	
-
 }
